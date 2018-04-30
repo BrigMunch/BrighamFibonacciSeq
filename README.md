@@ -1,1 +1,3 @@
 # BrighamFibonacciSeq
+
+Write a program to calculate the Nth number in the Fibonacci Sequence. If you use console 32 or console 64 the correct number must be place in the EAX register before you move 0 into EAX to return from the procedure. The N to select which number in the sequence to calculate must be declared in the data segment for console 32 and console 64 applications. Submissions completed by the end of the second week of the assignment will receive 3 bonus points. Submissions completed by the end of the first week of the assignment will receive an additional 3 bonus points. Submissions that use the Windows 32 or Windows 64 to ask the user for N and display the output will receive an addition 4 bonus points. 
